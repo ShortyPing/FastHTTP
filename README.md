@@ -5,4 +5,4 @@
 
 `./fasthttp prod <port> - Deploys a Webserver for Current Directory`
 
-Please not that this should not be used as an production webserver because I have not implemented any security features!
+Please note that this should not be used as an production webserver because I have not implemented any security features!
